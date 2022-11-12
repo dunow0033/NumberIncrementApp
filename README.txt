@@ -1,0 +1,1 @@
+Spinner number increment app, need to rebuild and study it
